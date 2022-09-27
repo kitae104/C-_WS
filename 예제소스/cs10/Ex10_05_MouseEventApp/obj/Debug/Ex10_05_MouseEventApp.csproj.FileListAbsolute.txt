@@ -1,0 +1,10 @@
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\bin\Debug\Ex10_05_MouseEventApp.exe.config
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\bin\Debug\Ex10_05_MouseEventApp.exe
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\bin\Debug\Ex10_05_MouseEventApp.pdb
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.csprojAssemblyReference.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.Form1.resources
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.Properties.Resources.resources
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.csproj.GenerateResource.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.csproj.CoreCompileInputs.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.exe
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_05_MouseEventApp\obj\Debug\Ex10_05_MouseEventApp.pdb

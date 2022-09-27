@@ -1,0 +1,10 @@
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\bin\Debug\EX10_01_MainMenuApp.exe.config
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\bin\Debug\EX10_01_MainMenuApp.exe
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\bin\Debug\EX10_01_MainMenuApp.pdb
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.csprojAssemblyReference.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.Form1.resources
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.Properties.Resources.resources
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.csproj.GenerateResource.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.csproj.CoreCompileInputs.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.exe
+D:\88_수업자료\C#_강의노트\예제소스\cs10\EX10_01_MainMenuApp\obj\Debug\EX10_01_MainMenuApp.pdb

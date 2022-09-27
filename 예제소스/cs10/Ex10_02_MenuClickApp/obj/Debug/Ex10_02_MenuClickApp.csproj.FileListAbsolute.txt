@@ -1,0 +1,9 @@
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\bin\Debug\Ex10_02_MenuClickApp.exe.config
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\bin\Debug\Ex10_02_MenuClickApp.exe
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\bin\Debug\Ex10_02_MenuClickApp.pdb
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\obj\Debug\Ex10_02_MenuClickApp.Form1.resources
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\obj\Debug\Ex10_02_MenuClickApp.Properties.Resources.resources
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\obj\Debug\Ex10_02_MenuClickApp.csproj.GenerateResource.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\obj\Debug\Ex10_02_MenuClickApp.csproj.CoreCompileInputs.cache
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\obj\Debug\Ex10_02_MenuClickApp.exe
+D:\88_수업자료\C#_강의노트\예제소스\cs10\Ex10_02_MenuClickApp\obj\Debug\Ex10_02_MenuClickApp.pdb

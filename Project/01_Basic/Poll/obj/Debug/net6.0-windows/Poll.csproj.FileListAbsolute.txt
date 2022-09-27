@@ -1,0 +1,17 @@
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\bin\Debug\net6.0-windows\Poll.exe
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\bin\Debug\net6.0-windows\Poll.deps.json
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\bin\Debug\net6.0-windows\Poll.runtimeconfig.json
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\bin\Debug\net6.0-windows\Poll.dll
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\bin\Debug\net6.0-windows\Poll.pdb
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.csproj.AssemblyReference.cache
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.Form1.resources
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.csproj.GenerateResource.cache
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.AssemblyInfoInputs.cache
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.AssemblyInfo.cs
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.csproj.CoreCompileInputs.cache
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.dll
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\refint\Poll.dll
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.pdb
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\Poll.genruntimeconfig.cache
+D:\Github\C#_WS\Project\01_설문조사\Poll\Poll\obj\Debug\net6.0-windows\ref\Poll.dll
