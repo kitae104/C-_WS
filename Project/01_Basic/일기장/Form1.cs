@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic;
+
 namespace 일기장
 {
     public partial class Form1 : Form
@@ -5,6 +7,11 @@ namespace 일기장
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

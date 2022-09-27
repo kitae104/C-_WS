@@ -1,0 +1,17 @@
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.csproj.AssemblyReference.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.Form1.resources
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.csproj.GenerateResource.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.AssemblyInfoInputs.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.AssemblyInfo.cs
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.csproj.CoreCompileInputs.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\트레이_아이콘.exe
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\트레이_아이콘.deps.json
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\트레이_아이콘.runtimeconfig.json
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\트레이_아이콘.dll
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\트레이_아이콘.pdb
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.dll
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\refint\트레이_아이콘.dll
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.pdb
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.genruntimeconfig.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\ref\트레이_아이콘.dll

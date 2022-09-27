@@ -1,0 +1,17 @@
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\tray_icon.exe
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\tray_icon.deps.json
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\tray_icon.runtimeconfig.json
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\tray_icon.dll
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\bin\Debug\net6.0-windows\tray_icon.pdb
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.csproj.AssemblyReference.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\트레이_아이콘.Form1.resources
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.csproj.GenerateResource.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.AssemblyInfoInputs.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.AssemblyInfo.cs
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.csproj.CoreCompileInputs.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.dll
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\refint\tray_icon.dll
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.pdb
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\tray_icon.genruntimeconfig.cache
+D:\Github\C#_WS\Project\01_Basic\트레이_아이콘\obj\Debug\net6.0-windows\ref\tray_icon.dll
