@@ -21,5 +21,11 @@ namespace Notepad
         {
 
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            label3.Text = label3.Text + SystemInformation.UserName;
+            label4.Text = label3.Text + SystemInformation.ComputerName;
+        }
     }
 }

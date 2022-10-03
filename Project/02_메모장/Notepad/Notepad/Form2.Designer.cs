@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.txtWord = new System.Windows.Forms.TextBox();
+            this.btnOk = new System.Windows.Forms.Button();
+            this.btnCancel = new System.Windows.Forms.Button();
+            this.chkCase = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.rdBtnDown = new System.Windows.Forms.RadioButton();
+            this.rdBtnUp = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -48,45 +48,47 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "찾을 내용 ";
             // 
-            // textBox1
+            // txtWord
             // 
-            this.textBox1.Location = new System.Drawing.Point(83, 13);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(240, 23);
-            this.textBox1.TabIndex = 1;
+            this.txtWord.Location = new System.Drawing.Point(83, 13);
+            this.txtWord.Name = "txtWord";
+            this.txtWord.Size = new System.Drawing.Size(240, 23);
+            this.txtWord.TabIndex = 1;
+            this.txtWord.TextChanged += new System.EventHandler(this.txtWord_TextChanged);
             // 
-            // button1
+            // btnOk
             // 
-            this.button1.Location = new System.Drawing.Point(341, 13);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "다음 찾기";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnOk.Location = new System.Drawing.Point(341, 13);
+            this.btnOk.Name = "btnOk";
+            this.btnOk.Size = new System.Drawing.Size(75, 23);
+            this.btnOk.TabIndex = 2;
+            this.btnOk.Text = "다음 찾기";
+            this.btnOk.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnCancel
             // 
-            this.button2.Location = new System.Drawing.Point(341, 51);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "취    소";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnCancel.Location = new System.Drawing.Point(341, 51);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(75, 23);
+            this.btnCancel.TabIndex = 3;
+            this.btnCancel.Text = "취    소";
+            this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.button2_Click);
             // 
-            // checkBox1
+            // chkCase
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(14, 62);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(107, 19);
-            this.checkBox1.TabIndex = 4;
-            this.checkBox1.Text = "대/소문자 구문";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.chkCase.AutoSize = true;
+            this.chkCase.Location = new System.Drawing.Point(14, 62);
+            this.chkCase.Name = "chkCase";
+            this.chkCase.Size = new System.Drawing.Size(107, 19);
+            this.chkCase.TabIndex = 4;
+            this.chkCase.Text = "대/소문자 구문";
+            this.chkCase.UseVisualStyleBackColor = true;
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.radioButton2);
-            this.groupBox1.Controls.Add(this.radioButton1);
+            this.groupBox1.Controls.Add(this.rdBtnDown);
+            this.groupBox1.Controls.Add(this.rdBtnUp);
             this.groupBox1.Location = new System.Drawing.Point(127, 42);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(196, 48);
@@ -94,27 +96,27 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "방향";
             // 
-            // radioButton1
+            // rdBtnDown
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(19, 18);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(49, 19);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.Text = "위쪽";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.rdBtnDown.AutoSize = true;
+            this.rdBtnDown.Checked = true;
+            this.rdBtnDown.Location = new System.Drawing.Point(101, 18);
+            this.rdBtnDown.Name = "rdBtnDown";
+            this.rdBtnDown.Size = new System.Drawing.Size(61, 19);
+            this.rdBtnDown.TabIndex = 1;
+            this.rdBtnDown.TabStop = true;
+            this.rdBtnDown.Text = "아래쪽";
+            this.rdBtnDown.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // rdBtnUp
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Checked = true;
-            this.radioButton2.Location = new System.Drawing.Point(101, 18);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(61, 19);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "아래쪽";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.rdBtnUp.AutoSize = true;
+            this.rdBtnUp.Location = new System.Drawing.Point(19, 18);
+            this.rdBtnUp.Name = "rdBtnUp";
+            this.rdBtnUp.Size = new System.Drawing.Size(49, 19);
+            this.rdBtnUp.TabIndex = 0;
+            this.rdBtnUp.Text = "위쪽";
+            this.rdBtnUp.UseVisualStyleBackColor = true;
             // 
             // Form2
             // 
@@ -122,10 +124,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(428, 102);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.chkCase);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnOk);
+            this.Controls.Add(this.txtWord);
             this.Controls.Add(this.label1);
             this.Name = "Form2";
             this.Text = "찾  기";
@@ -139,12 +141,12 @@
         #endregion
 
         private Label label1;
-        private TextBox textBox1;
-        private Button button1;
-        private Button button2;
-        private CheckBox checkBox1;
+        private Button btnCancel;
         private GroupBox groupBox1;
-        private RadioButton radioButton2;
-        private RadioButton radioButton1;
+        public TextBox txtWord;
+        public Button btnOk;
+        public CheckBox chkCase;
+        internal RadioButton rdBtnDown;
+        internal RadioButton rdBtnUp;
     }
 }
