@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 어셈블리에 대한 일반 정보는 다음 특성 집합을 통해 
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
-[assembly: AssemblyTitle("FileInfoSave")]
+[assembly: AssemblyTitle("HumanList")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FileInfoSave")]
+[assembly: AssemblyProduct("HumanList")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 이 프로젝트가 COM에 노출되는 경우 다음 GUID는 typelib의 ID를 나타냅니다.
-[assembly: Guid("0b691251-6a19-4114-bb00-671e2cc7fd90")]
+[assembly: Guid("cc98aeb8-9a0e-4068-9b3b-df5b0a95801f")]
 
 // 어셈블리의 버전 정보는 다음 네 가지 값으로 구성됩니다.
 //
