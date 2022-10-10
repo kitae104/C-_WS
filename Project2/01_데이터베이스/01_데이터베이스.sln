@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileInfoSave", "FileInfoSav
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanList", "HumanList\HumanList.csproj", "{CC98AEB8-9A0E-4068-9B3B-DF5B0A95801F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL_Connect", "MySQL_Connect\MySQL_Connect.csproj", "{86CAB162-DD54-4014-8D80-096C3BFA68A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC98AEB8-9A0E-4068-9B3B-DF5B0A95801F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC98AEB8-9A0E-4068-9B3B-DF5B0A95801F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC98AEB8-9A0E-4068-9B3B-DF5B0A95801F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CAB162-DD54-4014-8D80-096C3BFA68A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CAB162-DD54-4014-8D80-096C3BFA68A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CAB162-DD54-4014-8D80-096C3BFA68A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CAB162-DD54-4014-8D80-096C3BFA68A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
