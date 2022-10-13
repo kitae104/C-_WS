@@ -94,6 +94,7 @@
             this.btnSave.TabIndex = 17;
             this.btnSave.Text = "저장";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // txtJob
             // 
