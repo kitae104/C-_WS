@@ -29,7 +29,7 @@ namespace HumanList
 
         private void lvList_OleDb_View()
         {
-            lvList.Items.Clear();
+            lvList.Items.Clear();                       // 초기화 
             var Conn = new OleDbConnection(StrSQL);
             Conn.Open();
 
