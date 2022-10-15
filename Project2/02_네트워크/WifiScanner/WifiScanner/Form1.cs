@@ -8,16 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-using NativeWifi;
+using ManagedNativeWifi;
 using System.Threading;
 
 namespace WifiScanner
 {
     public partial class Form1 : Form
-    {
-        WlanClient wlanClient = new WlanClient();
-        Thread thrAP = null;
-
+    {     
+        private NativeWifi nativeWifi;
+        private Thread thrAP;
         private delegate void OnWifiViewDelegate(bool flags, object[] AddWifi); //델리게이트 개체 생성
         private OnWifiViewDelegate OnView = null;                               //델리게이트 개체 생성
 
@@ -28,9 +27,19 @@ namespace WifiScanner
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            OnView = new OnWifiViewDelegate(OnWifiList);
-            thrAP = new Thread(ThreadList);
-            thrAP.Start();
+            try
+            {
+                nativeWifi  = new NativeWifi();
+
+                OnView = new OnWifiViewDelegate(OnWifiList);
+                thrAP = new Thread(ThreadList);
+                thrAP.Start();
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            
         }
 
         private void ThreadList()
