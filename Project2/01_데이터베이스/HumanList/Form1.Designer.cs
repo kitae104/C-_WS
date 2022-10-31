@@ -76,6 +76,7 @@
             this.btnDel.TabIndex = 19;
             this.btnDel.Text = "삭제";
             this.btnDel.UseVisualStyleBackColor = true;
+            this.btnDel.Click += new System.EventHandler(this.btnDel_Click);
             // 
             // btnModify
             // 
@@ -85,6 +86,7 @@
             this.btnModify.TabIndex = 18;
             this.btnModify.Text = "수정";
             this.btnModify.UseVisualStyleBackColor = true;
+            this.btnModify.Click += new System.EventHandler(this.btnModify_Click);
             // 
             // btnSave
             // 
@@ -177,6 +179,7 @@
             this.lvList.TabIndex = 2;
             this.lvList.UseCompatibleStateImageBehavior = false;
             this.lvList.View = System.Windows.Forms.View.Details;
+            this.lvList.Click += new System.EventHandler(this.lvList_Click);
             // 
             // chId
             // 
