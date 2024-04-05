@@ -427,10 +427,10 @@ namespace ChatApp
         }
 
         private void btnSend_Click(object sender, EventArgs e)
-        {
+        {            
             if(txtMessage.Text == "")
             {
-                txtMessage.Focus();
+                txtMessage.Focus(); // txtMessage 컨트롤에 포커스를 설정
             }
             else
             {
